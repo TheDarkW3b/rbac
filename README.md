@@ -1,6 +1,6 @@
-# VRV Security - Role-Based Access Control System
+# Role-Based Access Control System
 
-VRV Security is a Spring Boot-based Role-Based Access Control (RBAC) system designed for managing user roles and access permissions. The system supports multiple roles, including **User**, **Moderator**, and **Admin**, with varying levels of access to designated endpoints.
+It's a Spring Boot-based Role-Based Access Control (RBAC) system designed for managing user roles and access permissions. The system supports multiple roles, including **User**, **Moderator**, and **Admin**, with varying levels of access to designated endpoints.
 
 ## Features
 
